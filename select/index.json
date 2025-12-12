@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Believe it or Not",
+  "base_artist": "Chozen Lee",
+  "createdAt": "2025-12-12T16:15:16.328266Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Believe It or Not",
+      "artist": "Loudness",
+      "has_synced": false,
+      "path": "select/01_Believe_It_or_Not_Loudness.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Believe It Or Not",
+      "artist": "SPINN",
+      "has_synced": true,
+      "path": "select/02_Believe_It_Or_Not_SPINN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Believe It Or Not",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/03_Believe_It_Or_Not_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Believe It Or Not",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/04_Believe_It_Or_Not_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Believe It Or Not",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/05_Believe_It_Or_Not_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Believe It Or Not",
+      "artist": "James Taylor",
+      "has_synced": true,
+      "path": "select/06_Believe_It_Or_Not_James_Taylor.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Believe It Or Not",
+      "artist": "Ice Cube",
+      "has_synced": false,
+      "path": "select/07_Believe_It_Or_Not_Ice_Cube.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Believe It Or Not",
+      "artist": "Dave East",
+      "has_synced": true,
+      "path": "select/08_Believe_It_Or_Not_Dave_East.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Believe It or Not",
+      "artist": "Classified",
+      "has_synced": false,
+      "path": "select/09_Believe_It_or_Not_Classified.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Believe It or Not",
+      "artist": "The Calamatix",
+      "has_synced": false,
+      "path": "select/10_Believe_It_or_Not_The_Calamatix.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "believe it or not",
+      "artist": "nickelback",
+      "has_synced": true,
+      "path": "select/11_believe_it_or_not_nickelback.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Believe It or Not",
+      "artist": "Mike Stocksdale",
+      "has_synced": true,
+      "path": "select/12_Believe_It_or_Not_Mike_Stocksdale.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Believe It or Not",
+      "artist": "Joey Scarbury",
+      "has_synced": true,
+      "path": "select/13_Believe_It_or_Not_Joey_Scarbury.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Believe It Or Not",
+      "artist": "Dave East",
+      "has_synced": true,
+      "path": "select/14_Believe_It_Or_Not_Dave_East.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Believe It Or Not",
+      "artist": "NickelBack",
+      "has_synced": false,
+      "path": "select/15_Believe_It_Or_Not_NickelBack.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nickelback - Believe It or Not",
+      "artist": "BugBear",
+      "has_synced": true,
+      "path": "select/16_Nickelback_-_Believe_It_or_Not_BugBear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Believe it or Not",
+      "artist": "Chozen Lee",
+      "has_synced": false,
+      "path": "select/pl_01_Believe_it_or_Not_Chozen_Lee.txt"
+    }
+  ]
+}
